@@ -344,7 +344,7 @@ Ver el archivo [LICENSE](LICENSE) para más detalles.
 ## 👥 Autores
 
 ### Desarrollador Principal
-- **Tu Nombre** - [GitHub](https://github.com/tu-usuario) | [Email](mailto:tu-email@ejemplo.com)
+- **Elías Uriel Méndez Hernández** - [GitHub](https://github.com/eumendez) | [Email](mailto:eliasuriel_mh31@outlook.com)
 
 ### Institución
 - **FES Acatlán - UNAM**
